@@ -153,3 +153,4 @@ Opens at http://localhost:5174 (or similar).
 
 ### Contact
 - Built with 💙 by Kijana. Questions? Reach out on [Email](klolani@yahoo.com).
+- `To whom much has been given, much shall be required`
